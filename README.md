@@ -123,4 +123,3 @@ Benchmark outlet types for strategic improvements
 **Contact**
 **Email: [cheenarawat09@gmail.com]**
 
-Transforming operational data into clear, actionable insights with Power BI.
